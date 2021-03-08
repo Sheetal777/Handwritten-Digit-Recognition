@@ -26,4 +26,6 @@ This is probably one of the most popular datasets among machine learning and dee
       Evaluate the model
       Create GUI to predict digits with Tkinter
       
- To sum up, I built a Python deep learning project on handwritten digit recognition app. We have built and trained the Convolutional neural network which is very effective for image classification purposes. Later on, we build the GUI where we draw a digit on the canvas then we classify the digit and show the results.
+ To sum up, this is a Python deep learning project on handwritten digit recognition app.
+  We have built and trained the Convolutional neural network which is very effective for image classification purposes. 
+  Later on, we build the GUI where we draw a digit on the canvas then we classify the digit and show the results.
